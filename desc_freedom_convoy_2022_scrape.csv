@@ -1,0 +1,12 @@
+Fields,Description
+donation_id,GiveSendGo Internal donation ID
+campaign_id,GiveSendGo Internal Campaign ID
+donation_amount,Amount Donated displayed in USD
+donation_comment,Donator's typed comment
+donation_conversion_rate,conversion rate to USD from donator's currency
+donation_name,A manually entered name by the donator. Not an accurate name unless the donator manually entered it as their own name
+donation_anonymous,0/1 I think this is internal to givesendgo (maybe to share their personal info to the campaign organizer) It seems that this does not affect the donation_name field
+donation_date,"a relative time indicator (x mins ago, or x hours or x days)"
+lovecount,internal social media indicator for givesendgo
+likes,internal social media indicator for givesendgo
+relative_date,the date and time the donation was read. This can be used with the donation_date field to get proximate timestamp for the donation date and sometimes time.
