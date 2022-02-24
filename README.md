@@ -5,5 +5,5 @@ If you want to gather donation, comment and public facing "names" for any other 
 
 If you want to see transformed data, see https://observablehq.com/@5e9ee33b437339a5/canadas-freedom-convoy-2022-donation-data
 
-#3 Update on 2022-02-24
+# Update on 2022-02-24
 the Freedom convoy is still getting a few donations per day but the adopt a trucker cmapaign seems to have hit a wall with the last donation 3 days ago. I will keep scanning both campaigns daily but will only update the files when new donations come in.
